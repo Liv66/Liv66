@@ -6,7 +6,6 @@
         <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
         <img src="https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
     </div>
-    <div>
-        [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liv66)](https://solved.ac/liv66)
-    </div>
+        [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liv66)](https://solved.ac/liv66)
 </div>
