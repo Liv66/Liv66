@@ -7,6 +7,7 @@
         <img src="https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
     </div>
     <div>
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Liv66)](https://solved.ac/Liv66/)
+        [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={Liv66})](https://solved.ac/{Liv66})
     </div>
 </div>
