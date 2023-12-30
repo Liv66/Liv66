@@ -8,6 +8,6 @@
     </div>
     <div>
         [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Liv66)](https://solved.ac/Liv66)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liv66)](https://solved.ac/liv66)
     </div>
 </div>
