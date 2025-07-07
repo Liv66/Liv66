@@ -8,5 +8,4 @@
     </div>
         
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liv66)](https://solved.ac/liv66)
+
